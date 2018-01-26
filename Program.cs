@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Scheduler
+namespace C1aire.Todoer
 {
     class Program
     {
