@@ -50,6 +50,7 @@ namespace C1aire.Todoer
                             break;
                         case "1":
                             Console.WriteLine("Введите");
+                            Console.Write("> ");
                             var text = Console.ReadLine();
                             store.Add(new Todo(text));
                             break;
